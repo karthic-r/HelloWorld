@@ -1,0 +1,7 @@
+/* Cascading Style Sheets -a style sheet language used for specifying the presentation and styling of a document written in a markup language such as HTML or XML */
+/* CSS was created by Hakon Wium Lie and Bert Bos, in 1994 */
+
+p {
+    color: purple;
+    text-align: center;
+  } 
